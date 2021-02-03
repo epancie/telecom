@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "601a5923d0c92c1544b880f6"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Historia",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601a5931d0c92c1544b880f7"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Historia",
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "601a593ad0c92c1544b880f8"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Historia",
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "601a5941d0c92c1544b880f9"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Historia",
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "601a5948d0c92c1544b880fa"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Historia",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601a5959d0c92c1544b880fb"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Biologia",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601a595fd0c92c1544b880fc"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Biologia",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601a5963d0c92c1544b880fd"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Biologia",
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "601a5968d0c92c1544b880fe"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Biologia",
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "601a5969d0c92c1544b880ff"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Biologia",
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "601a596dd0c92c1544b88100"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Biologia",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601a597cd0c92c1544b88101"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Algebra",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601a5984d0c92c1544b88102"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Algebra",
+  "nota": 8
+},{
+  "_id": {
+    "$oid": "601a5987d0c92c1544b88103"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Algebra",
+  "nota": 9
+},{
+  "_id": {
+    "$oid": "601a598dd0c92c1544b88104"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Algebra",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601a598ed0c92c1544b88105"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Algebra",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601acc53fcc2e4e7e844532f"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Algebra",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601acc5cfcc2e4e7e8445330"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Algebra",
+  "nota": 5
+},{
+  "_id": {
+    "$oid": "601acc60fcc2e4e7e8445331"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Algebra",
+  "nota": 6
+},{
+  "_id": {
+    "$oid": "601acc64fcc2e4e7e8445332"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Algebra",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601acc66fcc2e4e7e8445333"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Algebra",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601acc6ffcc2e4e7e8445334"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Historia",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601acc70fcc2e4e7e8445335"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Historia",
+  "nota": 7
+},{
+  "_id": {
+    "$oid": "601acc74fcc2e4e7e8445336"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Historia",
+  "nota": 3
+},{
+  "_id": {
+    "$oid": "601acc78fcc2e4e7e8445337"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Historia",
+  "nota": 2
+},{
+  "_id": {
+    "$oid": "601acc7dfcc2e4e7e8445338"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Historia",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601accb2fcc2e4e7e8445339"
+  },
+  "id_alumno": "6019edd01bc3365c22bd9b5f",
+  "materia": "Historia",
+  "nota": 10
+},{
+  "_id": {
+    "$oid": "601acd0189bbc02e90795eb2"
+  },
+  "id_alumno": "60198298f152da4ae7301c4c",
+  "materia": "Historia",
+  "nota": 10
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "60198298f152da4ae7301c4c"
+  },
+  "nombre": "Nestor Ignacio",
+  "apellido": "Flores",
+  "dni": "25878637",
+  "estado_civil": "soltero",
+  "sexo": "masculino",
+  "domicilio": "Dr Mariano Moreno 1352"
+},{
+  "_id": {
+    "$oid": "6019edd01bc3365c22bd9b5f"
+  },
+  "nombre": "Silvana Andrea",
+  "apellido": "Rascado",
+  "dni": "123123123",
+  "estado_civil": "soltera",
+  "sexo": "femenino",
+  "domicilio": "Av Cabildo 1234"
+},{
+  "_id": {
+    "$oid": "601a207e636adeee706b6e19"
+  },
+  "nombre": "Lara",
+  "apellido": "Flores",
+  "dni": "234234234",
+  "estado_civil": "Soltera",
+  "sexo": "Femenino",
+  "domicilio": "Pedro Goyena 2324"
+},{
+  "_id": {
+    "$oid": "601b04bb28634dcfb11841ee"
+  },
+  "nombre": "Juan",
+  "apellido": "Perez",
+  "dni": "2332211236",
+  "estado_civil": "Soltero",
+  "sexo": "Masculino",
+  "domicilio": "Carranza 23423"
+}]

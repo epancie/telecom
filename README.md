@@ -15,7 +15,7 @@ notas.json**
 
 Dichas colecciones se pueden importar en la base de datos **pythonreactdb** para no tener que cargar nuevos datos
 
-### 2. NodeJS y React Instación
+### 2. NodeJS y React
 
 Dentro del proyecto ejecutar
 ```sh
@@ -27,7 +27,7 @@ Dentro de la carpeta frontend instalar componentes react-router-dom y bootswatch
 $ telecom/frontend: npm i react-router-dom bootswatch
 ```
 
-### 3. Python con virtualenv (preferentemente) Instación
+### 3. Python con virtualenv (preferentemente)
 
 Desde una terminal
 ```sh

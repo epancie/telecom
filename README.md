@@ -85,6 +85,43 @@ You can now view frontend in the browser.
 Note that the development build is not optimized.
 To create a production build, use npm run build. 
 ```
+GET
+http://127.0.0.1:5000/alumnos
+Retorna la informacion de todos los alumnos
 
+http://127.0.0.1:5000/alumno/60198298f152da4ae7301c4c
+Retorna la informacion del alumno con id 60198298f152da4ae7301c4c
 
+http://127.0.0.1:5000/notas/60198298f152da4ae7301c4c
+Retorna las notas del id_alumno 60198298f152da4ae7301c4c
 
+http://127.0.0.1:5000/notas
+Retorna todas las notas en la DB
+
+POST
+http://127.0.0.1:5000/notas
+  {
+    "id_alumno": "60198298f152da4ae7301c4c",
+    "materia": "Historia",
+    "nota": 7
+  }
+Genera un nuevo registro para el id_alumno 60198298f152da4ae7301c4c
+
+http://127.0.0.1:5000/alumnos
+{
+  "apellido": "Lopez",
+  "dni": "1111111111",
+  "domicilio": "Dr Mariano Moreno 1352",
+  "estado_civil": "soltero",
+  "nombre": "Juan Jose",
+  "sexo": "masculino"
+}
+Genera un nuevo registro de alumno
+
+DELETE
+http://127.0.0.1:5000/alumno/60198298f152da4ae7301c4c
+Elimina al alumno con id 60198298f152da4ae7301c4c
+
+PUT
+http://127.0.0.1:5000/alumno/60198298f152da4ae7301c4c
+Actualiza informacion del alumno con id 60198298f152da4ae7301c4c

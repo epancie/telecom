@@ -87,7 +87,7 @@ To create a production build, use npm run build.
 ```
 
 ## API
-| Metodo | endPoint | Respuesta |
+| Metodo | Ruta | Respuesta |
 | ------ | ------ | ------ |
 | GET | http://127.0.0.1:5000/alumnos | Retorna la informacion de todos los alumnos |
 | GET | http://127.0.0.1:5000/alumno/60198298f152da4ae7301c4c | Retorna la informacion del alumno con id 60198298f152da4ae7301c4c |
@@ -97,7 +97,9 @@ To create a production build, use npm run build.
 | PUT | http://127.0.0.1:5000/alumno/60198298f152da4ae7301c4c | Actualiza informacion del alumno con id 60198298f152da4ae7301c4c |
 
 ## POST
+
 ```
+Generar un nuevo registro en la coleccion notas para el id_alumno 60198298f152da4ae7301c4c
 http://127.0.0.1:5000/notas
   {
     "id_alumno": "60198298f152da4ae7301c4c",
@@ -105,9 +107,10 @@ http://127.0.0.1:5000/notas
     "nota": 7
   }
 ```
-Genera un nuevo registro para el id_alumno 60198298f152da4ae7301c4c
+
 
 ```
+Genera un nuevo registro de alumno
 http://127.0.0.1:5000/alumnos
 {
   "apellido": "Lopez",
@@ -118,5 +121,5 @@ http://127.0.0.1:5000/alumnos
   "sexo": "masculino"
 }
 ```
-Genera un nuevo registro de alumno
+
 
